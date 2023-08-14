@@ -24,8 +24,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
     kotlinOptions {
         jvmTarget = '1.8'
@@ -39,7 +39,7 @@ android {
 
 afterEvaluate {
     publishing {
-        def versionName = "0.0.4" // 当前版本依赖库版本号，这个jitpack不会使用到，只是我们开发者自己查看
+        def versionName = "0.0.6" // 当前版本依赖库版本号，这个jitpack不会使用到，只是我们开发者自己查看
         publications {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
@@ -48,7 +48,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = "com.github.zengyimou" // 这个是依赖库的组 id
-                artifactId = 'zengyimou' // 依赖库的名称（jitpack 都不会使用到）
+                artifactId = 'library' // 依赖库的名称（jitpack 都不会使用到）
                 version = versionName
             }
         }
