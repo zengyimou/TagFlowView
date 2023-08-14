@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">@color/c_30B284</color>
+    <color name="colorPrimaryDark">#FF7A00</color>
+    <color name="colorAccent">#2FCC5D</color>
+    <color name="background">#F6F6F6</color>
+
+    <color name="c_FFB415">#FFB415</color>
+    <color name="c_06B060">#06B060</color>
+    <color name="c_F2F2F2">#F2F2F2</color>
+    <color name="c_30B284">#30B284</color>
+    <color name="c_1a30B284">#1A30B284</color>
+    <color name="c_ffeeeeee">#FFEEEEEE</color>
+    <color name="c_67E1AB">#67E1AB</color>
+    <color name="c_707070">#707070</color>
+    <color name="c_F4F4F4">#F4F4F4</color>
+    <color name="c_F6F6F6">#F6F6F6</color>
+    <color name="c_E3F2ED">#E3F2ED</color>
+    <color name="c_4B7E5A">#4B7E5A</color>
+    <color name="c_DDDDDD">#DDDDDD</color>
+    <color name="c_43AF89">#43AF89</color>
+    <color name="c_DA7070">#DA7070</color>
+    <color name="c_F95F39">#F95F39</color>
+    <color name="c_F86161">#F86161</color>
+    <color name="c_F1F1F1">#F1F1F1</color>
+    <color name="c_F3BC4E">#F3BC4E</color>
+    <color name="c_FFF0F0">#fff0f0</color>
+    <color name="c_E6FFF2">#E6FFF2</color>
+    <color name="c_E4E4E4">#E4E4E4</color>
+    <color name="c_F99B0E">#F99B0E</color>
+    <color name="c_FF9900">#FF9900</color>
+    <color name="c_FDFBEC">#FDFBEC</color>
+    <color name="c_3CC52C">#3CC52C</color>
+    <color name="c_FFE4E4">#FFE4E4</color>
+    <color name="c_E57D7D">#E57D7D</color>
+    <color name="c_E5EFFE">#E5EFFE</color>
+    <color name="c_1168F1">#1168F1</color>
+    <color name="c_FE3B30">#FE3B30</color>
+
+    <color name="c_FFE8E8">#FFE8E8</color>
+
+    <color name="c_E7FFE6">#E7FFE6</color>
+    <color name="c_FFF5E5">#FFF5E5</color>
+    <color name="c_15C587">#15C587</color>
+    <color name="c_1415C587">#1415C587</color>
+    <color name="c_F0F6FF">#F0F6FF</color>
+
+    <color name="c_1AFFFFFF">#1AFFFFFF</color>
+    <color name="c_3FFFFFFF">#3FFFFFFF</color>
+    <color name="c_99000000">#99000000</color>
+    <color name="c_F8F8F8">#F8F8F8</color>
+
+    <color name="c_1AFF6C1D">#1AFF6C1D</color>
+    <color name="c_1A18FFAD">#1A18FFAD</color>
+    <color name="c_FFDD00">#FFDD00</color>
+    <color name="c_1AC98B">#1AC98B</color>
+    <color name="c_FE7830">#FE7830</color>
+
+    <color name="c_1A30B284">#1A30B284</color>
+    <color name="c_222222">#222222</color>
+    <color name="c_FCFFF4">#FCFFF4</color>
+    <color name="c_DFF0BB">#DFF0BB</color>
+    <color name="c_FFEC9E">#FFEC9E</color>
+    <color name="c_E4F0C9">#E4F0C9</color>
+    <color name="black_tran_80">#33000000</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <color name="c_F0FBEF">#FFF0FBEF</color>
+    <color name="c_EDFBF6">#FFEDFBF6</color>
+    <color name="c_D9D9D9">#FFD9D9D9</color>
+    <color name="c_FAFAFA">#FFFAFAFA</color>
+    <color name="c_F8F9FA">#FFF8F9FA</color>
+
+    <color name="c_30CC95">#FF30CC95</color>
+    <color name="c_29A579">#FF29A579</color>
+    <color name="c_FFFF4A4A">#FFFF4A4A</color>
+    <color name="c_33000000">#33000000</color>
+    <color name="c_FB5F5F">#FB5F5F</color>
+
+    <color name="c_EFFFE2">#EFFFE2</color>
+    <color name="c_73CB2B">#73CB2B</color>
+    <color name="c_FFE2E2">#FFE2E2</color>
+    <color name="c_FA5D5D">#FA5D5D</color>
+
+    <color name="c_73000000">#73000000</color>
+    <color name="c_D9000000">#D9000000</color>
+
+    <color name="c_FBD2D2">#FBD2D2</color>
+    <color name="c_5466CB">#5466CB</color>
+    <color name="c_FFEBCD">#FFEBCD</color>
+
+    <color name="c_F0F0F0">#F0F0F0</color>
+    <color name="c_FBFBFB">#FBFBFB</color>
+
+    <color name="c_FF9C9C">#FF9C9C</color>
+    <color name="c_7330B284">#7330B284</color>
+    <color name="c_F5F5F5">#F5F5F5</color>
+    <color name="c_999999">#999999</color>
+
 </resources>
