@@ -30,6 +30,8 @@ dependencyResolutionManagement {
 ```groovy
 dependencies {
     api 'com.github.zengyimou:TagFlowView:0.0.9'
+    
+    s
 }
 ```
 
